@@ -1,8 +1,9 @@
-FoodWebsite 
+                                                    FoodWebsite🍟
 
 Hello Coders👨‍💻 ,I am Nishu Rajput, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.
 
-Languages
+                                                      Languages
+
 .HTML
 
 .CSS
@@ -11,10 +12,11 @@ Languages
 
 .Bootstrap5
 
-Technologies
+                                                       Technologies
+
 .Swipper.js
 
-Live Demo
+                                                       Live Demo
 https://food-website-dffq.onrender.com
 
-ScreenSho
+
